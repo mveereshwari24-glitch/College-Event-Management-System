@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse - College Event Management System",
+  "description": "A modern and interactive College Event Management System for campus symposiums, workshops, fests, and registrations with Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
